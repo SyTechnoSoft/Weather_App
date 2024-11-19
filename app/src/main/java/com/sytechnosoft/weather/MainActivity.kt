@@ -158,6 +158,7 @@ class MainActivity : AppCompatActivity() {
 
 
 
+
             else -> {
                 binding.root.setBackgroundResource(R.drawable.sunny_background)
                 binding.imgWeather.setAnimation(R.raw.sun)
